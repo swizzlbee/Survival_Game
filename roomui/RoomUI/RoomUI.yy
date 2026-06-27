@@ -1,0 +1,36 @@
+{
+  "$GMRoomUI":"",
+  "%Name":"RoomUI",
+  "children":[
+    {"$GMRUILayer":"v1","%Name":"UILayer_1","alignItems":2,"children":[
+        {"$GMRFlexPanel":"","%Name":"hotbar","alignItems":2,"alignSelf":3,"children":[
+            {"$GMRFlexPanel":"","%Name":"item_holder_1","alignItems":2,"children":[
+                {"$GMRSpriteGraphic":"v1","%Name":"graphic_55ABAD7F","animationSpeed":1.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_55ABAD7F","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_ui_box","path":"sprites/spr_ui_box/spr_ui_box.yy",},"x":0.0,"y":0.0,},
+              ],"flexDirection":0,"height":{"unit":1,"value":100.0,},"justifyContent":1,"name":"item_holder_1","nodeColour":4282970849,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":1,"value":100.0,},},
+            {"$GMRFlexPanel":"","%Name":"item_holder_2","alignItems":2,"children":[
+                {"$GMRSpriteGraphic":"v1","%Name":"graphic_492D3F6C","animationSpeed":1.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_492D3F6C","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_ui_box","path":"sprites/spr_ui_box/spr_ui_box.yy",},"x":0.0,"y":0.0,},
+              ],"flexDirection":0,"height":{"unit":1,"value":100.0,},"justifyContent":1,"name":"item_holder_2","nodeColour":4282970849,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":1,"value":100.0,},},
+            {"$GMRFlexPanel":"","%Name":"item_holder_3","alignItems":2,"children":[
+                {"$GMRSpriteGraphic":"v1","%Name":"graphic_308F928C","animationSpeed":1.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_308F928C","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_ui_box","path":"sprites/spr_ui_box/spr_ui_box.yy",},"x":0.0,"y":0.0,},
+              ],"flexDirection":0,"height":{"unit":1,"value":100.0,},"justifyContent":1,"name":"item_holder_3","nodeColour":4282970849,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":1,"value":100.0,},},
+            {"$GMRFlexPanel":"","%Name":"item_holder_4","alignItems":2,"children":[
+                {"$GMRSpriteGraphic":"v1","%Name":"graphic_1FDA23CA","animationSpeed":1.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_1FDA23CA","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_ui_box","path":"sprites/spr_ui_box/spr_ui_box.yy",},"x":0.0,"y":0.0,},
+              ],"flexDirection":0,"height":{"unit":1,"value":100.0,},"justifyContent":1,"name":"item_holder_4","nodeColour":4282970849,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":1,"value":100.0,},},
+            {"$GMRFlexPanel":"","%Name":"item_holder_5","alignItems":2,"children":[
+                {"$GMRSpriteGraphic":"v1","%Name":"graphic_5A1756B7","animationSpeed":1.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_5A1756B7","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_ui_box","path":"sprites/spr_ui_box/spr_ui_box.yy",},"x":0.0,"y":0.0,},
+              ],"flexDirection":0,"height":{"unit":1,"value":100.0,},"justifyContent":1,"name":"item_holder_5","nodeColour":4282970849,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":1,"value":100.0,},},
+            {"$GMRSpriteGraphic":"v1","%Name":"graphic_38B8E7A0","animationSpeed":1.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_38B8E7A0","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_ui_box","path":"sprites/spr_ui_box/spr_ui_box.yy",},"x":0.0,"y":0.0,},
+          ],"flexDirection":2,"height":{"unit":1,"value":100.0,},"justifyContent":1,"name":"hotbar","nodeColour":4286466290,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":1,"value":500.0,},},
+      ],"flexDirection":2,"gridX":32,"gridY":32,"justifyContent":1,"name":"UILayer_1","nodeColour":4282966258,"resourceType":"GMRUILayer","resourceVersion":"2.0",},
+  ],
+  "locked":false,
+  "name":"RoomUI",
+  "parent":{
+    "name":"survival",
+    "path":"survival.yyp",
+  },
+  "resourceType":"GMRoomUI",
+  "resourceVersion":"2.0",
+  "viewspaceChildren":[],
+  "visible":true,
+}

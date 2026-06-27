@@ -1,0 +1,9 @@
+moving = false
+movement_vect = [0,0]
+fastness = 1
+sprites = new entity_sprites() 
+sprites.walk_up = spr_walking_man_vert
+sprites.walk_down = sprites.walk_up
+sprites.does_flip = true
+sprites.walk_left = spr_walking_man_hor
+sprites.walk_right = spr_walking_man_hor

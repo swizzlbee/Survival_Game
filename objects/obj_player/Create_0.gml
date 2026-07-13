@@ -1,6 +1,8 @@
 moving = false
 movement_vect = [0,0]
-fastness = 1
+fastness = 1 //To JSON
+items = []
+max_items = 32 //To JSON
 sprites = new entity_sprites() 
 sprites.walk_up = spr_walking_man_vert
 sprites.walk_down = sprites.walk_up

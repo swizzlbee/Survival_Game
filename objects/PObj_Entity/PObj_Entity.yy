@@ -12,7 +12,10 @@
     "name":"Entity",
     "path":"folders/Objects/Entity.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_par_has_shadow",
+    "path":"objects/obj_par_has_shadow/obj_par_has_shadow.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

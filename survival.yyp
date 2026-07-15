@@ -39,6 +39,7 @@
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"obj_grass","path":"objects/obj_grass/obj_grass.yy",},},
     {"id":{"name":"obj_held_item","path":"objects/obj_held_item/obj_held_item.yy",},},
+    {"id":{"name":"obj_par_has_shadow","path":"objects/obj_par_has_shadow/obj_par_has_shadow.yy",},},
     {"id":{"name":"obj_par_item","path":"objects/obj_par_item/obj_par_item.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_room_controller","path":"objects/obj_room_controller/obj_room_controller.yy",},},

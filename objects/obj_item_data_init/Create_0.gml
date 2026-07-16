@@ -1,0 +1,1 @@
+global.items = load_json_file("tools.json")

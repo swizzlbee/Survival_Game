@@ -1,0 +1,23 @@
+{
+  "0": {
+    "name": "Axe",
+    "damage": 5,
+    "work": 5,
+    "resource": "trees",
+    "sprite": "spr_stone_axe"
+  },
+  "1": {
+    "name": "Hoe",
+    "damage": 2,
+    "work": 5,
+    "resource": "ground",
+    "sprite": "spr_stone_hoe"
+  },
+  "2": {
+    "name": "Watering Can",
+    "damage": 1,
+    "work": 5,
+    "resource": "NaN",
+    "sprite": "spr_water_can"
+  }
+}

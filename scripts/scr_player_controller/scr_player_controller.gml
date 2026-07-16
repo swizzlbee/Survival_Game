@@ -19,3 +19,11 @@ function player_state_move(_player,_move_x,_move_y) {
 function player_state_attack(_player) {
     // Combo timing and hitbox spawning
 }
+
+//Inventory control
+function player_add_inventory(){
+    
+}
+function player_get_hotbar(){
+    
+}

@@ -1,0 +1,17 @@
+{
+  "0": {
+    "name": "Wood",
+    "sprite": "spr_wood",
+    "stacks": 16
+  },
+  "1": {
+    "name": "Grass",
+    "sprite": "spr_grass_resource",
+    "stacks": 16
+  },
+  "2": {
+    "name": "Dirt",
+    "sprite": "spr_dirt",
+    "stacks": 16
+  }
+}

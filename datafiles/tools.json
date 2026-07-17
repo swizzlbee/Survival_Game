@@ -4,20 +4,23 @@
     "damage": 5,
     "work": 5,
     "resource": "trees",
-    "sprite": "spr_stone_axe"
+    "sprite": "spr_stone_axe",
+    "stacks":  1
   },
   "1": {
     "name": "Hoe",
     "damage": 2,
     "work": 5,
     "resource": "ground",
-    "sprite": "spr_stone_hoe"
+    "sprite": "spr_stone_hoe",
+    "stacks": 1
   },
   "2": {
     "name": "Watering Can",
     "damage": 1,
     "work": 5,
     "resource": "NaN",
-    "sprite": "spr_water_can"
+    "sprite": "spr_water_can",
+    "stacks": 1
   }
 }
